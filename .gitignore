@@ -24,3 +24,4 @@ yarn-error.log*
 # ignnore dependencies
 node_modules/
 package-lock.json
+README.md
